@@ -151,13 +151,14 @@ ul li:nth-child(4)::before{
 }
 
 #project p{
-    color: gold;
+    color: black;
     display: inline-block;
     border-radius: 4px;
     padding: 2px 8px 2px 0;
 }
 
 #project p:hover{
+    color : gold;
     background-color: #2f2f2f;
     text-decoration: none;
     padding: 2px 8px;

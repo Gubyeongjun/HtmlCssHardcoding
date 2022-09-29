@@ -1,2 +1,2 @@
 # HtmlCssHardcoding
-link [ㅋㅋㅋ](https://dndjd0321.netlify.app/)
+link [나의 페이지](https://dndjd0321.netlify.app/)
